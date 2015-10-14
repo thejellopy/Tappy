@@ -1,0 +1,10 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle:
+	{
+		default: { },
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle:
+	{
+		default: { },
+	}
+}
