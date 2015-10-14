@@ -20,5 +20,8 @@ Powered by [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) & [
 ![alt text](http://cdn.jellopy.in.th/tappy7.jpg "Settings")
 ![alt text](http://cdn.jellopy.in.th/tappy8.jpg "Credit screen")
 
+# Download
+[https://github.com/thejellopy/Tappy/raw/master/tappy1ea.jar](https://github.com/thejellopy/Tappy/raw/master/tappy1ea.jar)
+
 # Problem?
 Just ask [me](https://www.facebook.com/Jellopy1ea).
