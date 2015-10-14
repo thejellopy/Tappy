@@ -3,6 +3,14 @@ Just a rhythm game
 
 Powered by [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) & [lwjgl](http://www.lwjgl.org)
 
+# How to play
+* Install [Java Runtime (jre)](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+* Start game.
+* Press <kbd>D</kbd>, <kbd>F</kbd>, <kbd>J</kbd>, <kbd>K</kbd> to hit a note.
+* ~~or press <kbd>\\</kbd> to activate **CHEAT MODE!**~~
+* Good luck have fun!
+
+# Screenshots
 ![alt text](http://cdn.jellopy.in.th/tappy1.jpg "Loading screen")
 ![alt text](http://cdn.jellopy.in.th/tappy2.jpg "Home screen")
 ![alt text](http://cdn.jellopy.in.th/tappy3.jpg "Select song")
