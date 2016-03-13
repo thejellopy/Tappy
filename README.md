@@ -11,14 +11,14 @@ Powered by [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) & [
 * Good luck have fun!
 
 # Screenshots
-![alt text](http://cdn.jellopy.in.th/tappy1.jpg "Loading screen")
-![alt text](http://cdn.jellopy.in.th/tappy2.jpg "Home screen")
-![alt text](http://cdn.jellopy.in.th/tappy3.jpg "Select song")
-![alt text](http://cdn.jellopy.in.th/tappy4.jpg "Let's GO!")
-![alt text](http://cdn.jellopy.in.th/tappy5.jpg "Pause screen")
-![alt text](http://cdn.jellopy.in.th/tappy6.jpg "Result screen")
-![alt text](http://cdn.jellopy.in.th/tappy7.jpg "Settings")
-![alt text](http://cdn.jellopy.in.th/tappy8.jpg "Credit screen")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy1.jpg "Loading screen")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy2.jpg "Home screen")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy3.jpg "Select song")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy4.jpg "Let's GO!")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy5.jpg "Pause screen")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy6.jpg "Result screen")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy7.jpg "Settings")
+![alt text](https://cdn.exe.in.th/jellopy/tappy-git/tappy8.jpg "Credit screen")
 
 # Download
 [https://github.com/thejellopy/Tappy/raw/master/tappy1ea.jar](https://github.com/thejellopy/Tappy/raw/master/tappy1ea.jar)
